@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-apply plugin: 'com.novoda.bintray-release'
-apply from: 'https://raw.githubusercontent.com/HendraAnggrian/hendraanggrian.github.io/master/bintray.gradle'
+//apply plugin: 'com.novoda.bintray-release'
+//apply from: 'https://raw.githubusercontent.com/HendraAnggrian/hendraanggrian.github.io/master/bintray.gradle'
 
 android {
     compileSdkVersion versions.sdk.target
@@ -43,11 +43,11 @@ dependencies {
     testCompile "junit:junit:$versions.junit"
 }
 
-publish {
-    userOrg = bintray.user
-    groupId = bintray.group
-    artifactId = bintray.artifact.reveallayout.id
-    publishVersion = versions.release
-    desc = bintray.artifact.reveallayout.desc
-    website = bintray.artifact.reveallayout.website
-}
+//publish {
+//    userOrg = bintray.user
+//    groupId = bintray.group
+//    artifactId = bintray.artifact.reveallayout.id
+//    publishVersion = versions.release
+//    desc = bintray.artifact.reveallayout.desc
+//    website = bintray.artifact.reveallayout.website
+//}

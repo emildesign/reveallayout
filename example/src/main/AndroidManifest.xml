@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_rounded"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
-            android:name=".MainActivity">
+            android:name=".MainActivity2">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -18,7 +18,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SecondActivity"
+            android:name=".SecondActivity2"
             android:theme="@style/CircularRevealTheme"/>
     </application>
 </manifest>

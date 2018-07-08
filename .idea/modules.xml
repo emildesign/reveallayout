@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CircularRevealAnimator.iml" filepath="$PROJECT_DIR$/CircularRevealAnimator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal.iml" filepath="$PROJECT_DIR$/circular-reveal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal/circular-reveal-circular-reveal.iml" filepath="$PROJECT_DIR$/circular-reveal/circular-reveal-circular-reveal.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-demo/circular-reveal-demo.iml" filepath="$PROJECT_DIR$/circular-reveal-demo/circular-reveal-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-extensions.iml" filepath="$PROJECT_DIR$/circular-reveal-extensions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-extensions.iml" filepath="$PROJECT_DIR$/circular-reveal-extensions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-extensions/circular-reveal-extensions-circular-reveal-extensions.iml" filepath="$PROJECT_DIR$/circular-reveal-extensions/circular-reveal-extensions-circular-reveal-extensions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-extensions/circular-reveal-extensions-circular-reveal-extensions.iml" filepath="$PROJECT_DIR$/circular-reveal-extensions/circular-reveal-extensions-circular-reveal-extensions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/circular-reveal-extensions-demo/circular-reveal-extensions-demo.iml" filepath="$PROJECT_DIR$/circular-reveal-extensions-demo/circular-reveal-extensions-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RevealAnimationLayout.iml" filepath="$PROJECT_DIR$/RevealAnimationLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reveallayout.iml" filepath="$PROJECT_DIR$/reveallayout.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reveallayout/reveallayout-reveallayout.iml" filepath="$PROJECT_DIR$/reveallayout/reveallayout-reveallayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reveallayout/reveallayout.iml" filepath="$PROJECT_DIR$/reveallayout/reveallayout.iml" />
     </modules>
   </component>
 </project>
